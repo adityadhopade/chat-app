@@ -2,11 +2,13 @@
 Realtime chat app using socket.io and vanilla JavaScript
 
 
-
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
 
 🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+
+## Project Workflow
+![GithuActions-ChatApplications](https://github.com/adityadhopade/chat-app/assets/48392204/cada1493-5f87-4acb-bba8-5404dfde0032)
 
 ## Demo 
 
